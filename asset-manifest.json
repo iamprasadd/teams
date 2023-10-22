@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/teams/static/css/main.ac71f40f.css",
-    "main.js": "/teams/static/js/main.719951d6.js",
-    "static/js/787.634a24db.chunk.js": "/teams/static/js/787.634a24db.chunk.js",
-    "index.html": "/teams/index.html",
-    "main.ac71f40f.css.map": "/teams/static/css/main.ac71f40f.css.map",
-    "main.719951d6.js.map": "/teams/static/js/main.719951d6.js.map",
-    "787.634a24db.chunk.js.map": "/teams/static/js/787.634a24db.chunk.js.map"
+    "main.css": "/iamprasadd/teams.git/static/css/main.ac71f40f.css",
+    "main.js": "/iamprasadd/teams.git/static/js/main.36842eb5.js",
+    "static/js/787.634a24db.chunk.js": "/iamprasadd/teams.git/static/js/787.634a24db.chunk.js",
+    "index.html": "/iamprasadd/teams.git/index.html",
+    "main.ac71f40f.css.map": "/iamprasadd/teams.git/static/css/main.ac71f40f.css.map",
+    "main.36842eb5.js.map": "/iamprasadd/teams.git/static/js/main.36842eb5.js.map",
+    "787.634a24db.chunk.js.map": "/iamprasadd/teams.git/static/js/787.634a24db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac71f40f.css",
-    "static/js/main.719951d6.js"
+    "static/js/main.36842eb5.js"
   ]
 }
